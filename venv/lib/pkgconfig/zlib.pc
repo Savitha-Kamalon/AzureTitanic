@@ -1,0 +1,13 @@
+prefix=/Users/savithakamalon/Documents/PracticalML/TitanicModel/AzureTitanic/venv
+exec_prefix=/Users/savithakamalon/Documents/PracticalML/TitanicModel/AzureTitanic/venv
+libdir=/Users/savithakamalon/Documents/PracticalML/TitanicModel/AzureTitanic/venv/lib
+sharedlibdir=/Users/savithakamalon/Documents/PracticalML/TitanicModel/AzureTitanic/venv/lib
+includedir=/Users/savithakamalon/Documents/PracticalML/TitanicModel/AzureTitanic/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

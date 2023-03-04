@@ -1,0 +1,40 @@
+[
+  {
+    "PassengerId": 817,
+    "Survived": 0,
+    "Pclass": 3,
+    "Sex": "female",
+    "Age": 23.0,
+    "SibSp": 0,
+    "Parch": 0,
+    "Ticket": "STON/O2. 3101290",
+    "Fare": 7.925,
+    "Cabin": null
+  },
+  {
+    "PassengerId": 368,
+    "Survived": 1,
+    "Pclass": 3,
+    "Sex": "female",
+    "Age": {
+      "isNan": true
+    },
+    "SibSp": 0,
+    "Parch": 0,
+    "Ticket": "2626",
+    "Fare": 7.2292,
+    "Cabin": null
+  },
+  {
+    "PassengerId": 636,
+    "Survived": 1,
+    "Pclass": 2,
+    "Sex": "female",
+    "Age": 28.0,
+    "SibSp": 0,
+    "Parch": 0,
+    "Ticket": "237668",
+    "Fare": 13.0,
+    "Cabin": null
+  }
+]
